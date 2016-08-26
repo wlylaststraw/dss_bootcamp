@@ -1,6 +1,10 @@
 ---
 title: "DSS Computing Bootcamp Template"
+<<<<<<< HEAD
 author: "Luyang H Wang"
+=======
+author: "Luyang m Wang"
+>>>>>>> 9a30468a32bf727069f37992d813395ce5ab5c70
 date: "8/26/2016"
 output: html_document
 ---
